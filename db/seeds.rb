@@ -5,3 +5,23 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+mcbet = Restaurant.new(name: "McBet", category: "french", address: "36 avenue de Bellevue")
+mcbet.save
+bristol = Restaurant.new(name: "Epicure", category: "french", address: "36 avenue de Bellevue")
+bristol.save
+mcbet = Restaurant.new(name: "McBet", category: "french", address: "36 avenue de Bellevue")
+mcbet.save
+bristol = Restaurant.new(name: "Epicure", category: "french", address: "36 avenue de Bellevue")
+bristol.save
+mcbet = Restaurant.new(name: "McBet", category: "french", address: "36 avenue de Bellevue")
+mcbet.save
+bristol = Restaurant.new(name: "Epicure", category: "french", address: "36 avenue de Bellevue")
+bristol.save
+mcbet = Restaurant.new(name: "McBet", category: "french", address: "36 avenue de Bellevue")
+mcbet.save
+bristol = Restaurant.new(name: "Epicure", category: "french", address: "36 avenue de Bellevue")
+bristol.save
+mcbet = Restaurant.new(name: "McBet", category: "french", address: "36 avenue de Bellevue")
+mcbet.save
+bristol = Restaurant.new(name: "Epicure", category: "french", address: "36 avenue de Bellevue")
+bristol.save
